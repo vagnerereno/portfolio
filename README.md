@@ -45,14 +45,14 @@ Disponível publicamente em: www.medbeapp.com
 Aplicativo desenvolvido durante os Trabalhos de Conclusão de Curso I e II, requisitos para obtenção do título de bacharel em Engenharia de Software.
 Disponível publicamente em: https://repositorio.unipampa.edu.br/jspui/handle/riu/5611
 
-<p float="left">
+<p float="center">
   <img src="app_bke4isp1.jpeg" alt="Interface MedBe 1." width="200px" />
   <img src="app_bke4isp2.jpeg" alt="Interface MedBe 1." width="200px" />
   <img src="app_bke4is1p.jpeg" alt="Interface MedBe 1." width="200px" />
   <img src="app_bke4isp3.jpeg" alt="Interface MedBe 1." width="200px" />
 </p>
 
-<p float="left">
+<p float="center">
   <img src="app_bke4isp4.jpeg" alt="Interface MedBe 1." width="200px" />
   <img src="app_bke4isp5.jpeg" alt="Interface MedBe 1." width="200px" />
   <img src="app_bke4isp6.jpeg" alt="Interface MedBe 1." width="200px" />
@@ -63,14 +63,14 @@ Disponível publicamente em: https://repositorio.unipampa.edu.br/jspui/handle/ri
 Aplicativo desenvolvido em conjunto com o projeto MedBe. 
 Disponível publicamente em: baixe.medbeapp.com
 
-<p float="left">
+<p float="center">
   <img src="app_medbe1.jpeg" alt="Interface MedBe 1." width="200px" />
   <img src="app_medbe2.jpeg" alt="Interface MedBe 1." width="200px" />
   <img src="app_medbe3.jpeg" alt="Interface MedBe 1." width="200px" />
   <img src="app_medbe4.jpeg" alt="Interface MedBe 1." width="200px" />
 </p>
 
-<p float="left">
+<p float="center">
   <img src="app_medbe5.jpeg" alt="Interface MedBe 1." width="200px" />
   <img src="app_medbe6.jpeg" alt="Interface MedBe 1." width="200px" />
   <img src="app_medbe7.jpeg" alt="Interface MedBe 1." width="200px" />
