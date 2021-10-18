@@ -41,14 +41,6 @@ Disponível publicamente em: www.medbeapp.com
   <img src="formulario.png" alt="Interface MedBe 1." width="800px" />
 </p>
 
-<p align="center">
-  <img src="#Pub1.png" alt="Interface MedBe 1." width="800px" />
-</p>
-
-<p align="center">
-  <img src="#Pub2.png" alt="Interface MedBe 1." width="800px"/>
-</p>
-
 #### 1. **<a href="https://repositorio.unipampa.edu.br/jspui/handle/riu/5611"> 📱 Aplicativo Identifica ISP </a>**
 Aplicativo desenvolvido durante os Trabalhos de Conclusão de Curso I e II, requisitos para obtenção do título de bacharel em Engenharia de Software.
 Disponível publicamente em: https://repositorio.unipampa.edu.br/jspui/handle/riu/5611
