@@ -22,11 +22,11 @@ Disponível publicamente em: www.medbeapp.com
 
 
 <p align="center">
-  <img src="pagina_web1_2" alt="Interface MedBe 1." />
+  <img src="pagina_web1_2.png" alt="Interface MedBe 1." />
 </p>
 
 <p align="center">
-  <img src="pagina_web1_3" alt="Interface MedBe 1." />
+  <img src="pagina_web1_3.png" alt="Interface MedBe 1." />
 </p>
 
 <p align="center">
@@ -54,34 +54,34 @@ Aplicativo desenvolvido durante os Trabalhos de Conclusão de Curso I e II, requ
 Disponível publicamente em: https://repositorio.unipampa.edu.br/jspui/handle/riu/5611
 
 <p align="center">
-  <img src="app_bke4isp1.png" alt="Interface MedBe 1." />
+  <img src="app_bke4isp1.jpeg" alt="Interface MedBe 1." />
 </p>
 
 <p align="center">
-  <img src="app_bke4isp2.png" alt="Interface MedBe 1." />
-</p>
-
-
-<p align="center">
-  <img src="app_bke4is1p.png" alt="Interface MedBe 1." />
-</p>
-
-<p align="center">
-  <img src="app_bke4isp3.png" alt="Interface MedBe 1." />
+  <img src="app_bke4isp2.jpeg" alt="Interface MedBe 1." />
 </p>
 
 
 <p align="center">
-  <img src="app_bke4isp4.png" alt="Interface MedBe 1." />
+  <img src="app_bke4is1p.jpeg" alt="Interface MedBe 1." />
 </p>
 
 <p align="center">
-  <img src="app_bke4isp5.png" alt="Interface MedBe 1." />
+  <img src="app_bke4isp3.jpeg" alt="Interface MedBe 1." />
 </p>
 
 
 <p align="center">
-  <img src="app_bke4isp6.png" alt="Interface MedBe 1." />
+  <img src="app_bke4isp4.jpeg" alt="Interface MedBe 1." />
+</p>
+
+<p align="center">
+  <img src="app_bke4isp5.jpeg" alt="Interface MedBe 1." />
+</p>
+
+
+<p align="center">
+  <img src="app_bke4isp6.jpeg" alt="Interface MedBe 1." />
 </p>
 
 
@@ -90,36 +90,36 @@ Aplicativo desenvolvido em conjunto com o projeto MedBe.
 Disponível publicamente em: baixe.medbeapp.com
 
 <p align="center">
-  <img src="app_medbe1.png" alt="Interface MedBe 1." />
+  <img src="app_medbe1.jpeg" alt="Interface MedBe 1." />
 </p>
 
 <p align="center">
-  <img src="app_medbe2.png" alt="Interface MedBe 1." />
-</p>
-
-
-<p align="center">
-  <img src="app_medbe3.png" alt="Interface MedBe 1." />
-</p>
-
-<p align="center">
-  <img src="app_medbe4.png" alt="Interface MedBe 1." />
+  <img src="app_medbe2.jpeg" alt="Interface MedBe 1." />
 </p>
 
 
 <p align="center">
-  <img src="app_medbe5.png" alt="Interface MedBe 1." />
+  <img src="app_medbe3.jpeg" alt="Interface MedBe 1." />
 </p>
 
 <p align="center">
-  <img src="app_medbe6.png" alt="Interface MedBe 1." />
+  <img src="app_medbe4.jpeg" alt="Interface MedBe 1." />
 </p>
 
 
 <p align="center">
-  <img src="app_medbe7.png" alt="Interface MedBe 1." />
+  <img src="app_medbe5.jpeg" alt="Interface MedBe 1." />
 </p>
 
 <p align="center">
-  <img src="app_medbe8.png" alt="Interface MedBe 1." />
+  <img src="app_medbe6.jpeg" alt="Interface MedBe 1." />
+</p>
+
+
+<p align="center">
+  <img src="app_medbe7.jpeg" alt="Interface MedBe 1." />
+</p>
+
+<p align="center">
+  <img src="app_medbe8.jpeg" alt="Interface MedBe 1." />
 </p>
