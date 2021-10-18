@@ -54,20 +54,20 @@ Aplicativo desenvolvido durante os Trabalhos de Conclusão de Curso I e II, requ
 Disponível publicamente em: https://repositorio.unipampa.edu.br/jspui/handle/riu/5611
 
 <p align="center">
-  <img src="app_bke4isp1.jpeg" alt="Interface MedBe 1." />
+  <img src="app_bke4isp1.jpeg" alt="Interface MedBe 1." width="300px" />
 </p>
 
 <p align="center">
-  <img src="app_bke4isp2.jpeg" alt="Interface MedBe 1." />
+  <img src="app_bke4isp2.jpeg" alt="Interface MedBe 1." width="300px" />
 </p>
 
 
 <p align="center">
-  <img src="app_bke4is1p.jpeg" alt="Interface MedBe 1." />
+  <img src="app_bke4is1p.jpeg" alt="Interface MedBe 1." width="300px" />
 </p>
 
 <p align="center">
-  <img src="app_bke4isp3.jpeg" alt="Interface MedBe 1." />
+  <img src="app_bke4isp3.jpeg" alt="Interface MedBe 1." width="300px" />
 </p>
 
 
