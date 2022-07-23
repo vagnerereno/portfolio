@@ -59,7 +59,7 @@ Disponível publicamente em: https://repositorio.unipampa.edu.br/jspui/handle/ri
 </p>
 
 
-#### 1. **<a href="baixe.medbeapp.com"> 🖥️ Aplicativo MedBe </a>**
+#### 1. **<a href="http://baixe.medbeapp.com/"> 🖥️ Aplicativo MedBe </a>**
 Aplicativo desenvolvido em conjunto com o projeto MedBe. 
 Disponível publicamente em: baixe.medbeapp.com
 
